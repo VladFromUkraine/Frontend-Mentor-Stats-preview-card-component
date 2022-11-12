@@ -107,6 +107,7 @@ position: absolute;
 .project{
   width: 320px;
   height: 750px;
+  margin-bottom: 100px;
 }
 .image-mobile{
   visibility: visible;
