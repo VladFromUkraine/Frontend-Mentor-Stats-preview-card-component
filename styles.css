@@ -138,7 +138,7 @@ h3{
   font-size: 16px;
 }
 .attribution{
-  position:fixed;
+  position:relative;
   margin-top: 90px;
 }
 }
